@@ -1,4 +1,4 @@
-# Piecewise-linear-fitting
+# Piecewise linear fitting/regression MATLAB
 This method can be used in both linear regrassion and nonlinear regression.
 The dimension of beta depends on the number of coefficient you are seeking.
 
